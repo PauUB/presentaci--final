@@ -12,7 +12,7 @@ Benvinguts al meu portfoli final de curs. Aquí recopilo alguns dels projectes r
 
 ## 1. EverPIA
 
-🔗 [https://github.com/PauUB/Projece2_EverPIA](https://github.com/PauUB/Projece2_EverPIA)
+🔗 [Projecte 2](https://github.com/PauUB/Projece2_EverPIA)
 
 Projecte de planificació i infraestructura IT.
 
@@ -20,7 +20,7 @@ Projecte de planificació i infraestructura IT.
 
 ## 2. Sobreviure en una empresa IT
 
-🔗 [https://github.com/PauUB/Projecte-03_Sobreviure-en-una-empresa-IT](https://github.com/PauUB/Projecte-03_Sobreviure-en-una-empresa-IT)
+🔗 [Projecte 3](https://github.com/PauUB/Projecte-03_Sobreviure-en-una-empresa-IT)
 
 Treball sobre el funcionament d’una empresa tecnològica.
 
@@ -28,7 +28,7 @@ Treball sobre el funcionament d’una empresa tecnològica.
 
 ## 3. Projecte 4
 
-🔗 [https://github.com/PauUB/Projecte-4](https://github.com/PauUB/Projecte-4)
+🔗 [Projecte 4](https://github.com/PauUB/Projecte-4)
 
 Configuració de sistemes i serveis de xarxa.
 
@@ -36,7 +36,7 @@ Configuració de sistemes i serveis de xarxa.
 
 ## 4. Projecte 5
 
-🔗 [https://github.com/classesSMX2n/projecte5-PauUB](https://github.com/classesSMX2n/projecte5-PauUB)
+🔗 [Projecte 5](https://github.com/classesSMX2n/projecte5-PauUB)
 
 Automatització i gestió de serveis.
 
@@ -44,7 +44,7 @@ Automatització i gestió de serveis.
 
 ## 5. Projecte 6
 
-🔗 [https://github.com/classesSMX2n/projecte6-PauUB](https://github.com/classesSMX2n/projecte6-PauUB)
+🔗 [Projecte 6](https://github.com/classesSMX2n/projecte6-PauUB)
 
 Administració de servidors i virtualització.
 
@@ -52,7 +52,7 @@ Administració de servidors i virtualització.
 
 ## 6. Projecte 7
 
-🔗 [https://github.com/classesSMX2n/projecte-7-PauUB](https://github.com/classesSMX2n/projecte-7-PauUB)
+🔗 [Projecte 7](https://github.com/classesSMX2n/projecte-7-PauUB)
 
 Optimització i manteniment de sistemes.
 
@@ -60,7 +60,7 @@ Optimització i manteniment de sistemes.
 
 ## 7. Projecte 8
 
-🔗 [https://github.com/classesSMX2n/projecte-8-PauUB](https://github.com/classesSMX2n/projecte-8-PauUB)
+🔗 [Projecte 8](https://github.com/classesSMX2n/projecte-8-PauUB)
 
 Projecte final integrador del curs.
 
