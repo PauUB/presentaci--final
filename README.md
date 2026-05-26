@@ -45,10 +45,10 @@ Durant el curs he treballat coneixements relacionats amb:
 | **EverPIA** | Projecte de planificació i infraestructura IT | [Obrir projecte](https://github.com/PauUB/Projece2_EverPIA) |
 | **Sobreviure en una empresa IT** | Treball sobre el funcionament d’una empresa tecnològica | [Obrir projecte](https://github.com/PauUB/Projecte-03_Sobreviure-en-una-empresa-IT) |
 | **Projecte 4** | Configuració de sistemes i serveis de xarxa | [Obrir projecte](https://github.com/PauUB/Projecte-4) |
-| **Projecte 5** | Automatització i gestió de serveis | [Obrir projecte](https://github.com/classesSMX2n/projecte5-PauUB) |
-| **Projecte 6** | Administració de servidors i virtualització | [Obrir projecte](https://github.com/classesSMX2n/projecte6-PauUB) |
-| **Projecte 7** | Optimització i manteniment de sistemes | [Obrir projecte](https://github.com/classesSMX2n/projecte-7-PauUB) |
-| **Projecte 8** | Projecte final integrador del curs | [Obrir projecte](https://github.com/classesSMX2n/projecte-8-PauUB) |
+| **Projecte 5** | Automatització i gestió de serveis | [Obrir projecte](https://github.com/PauUB/projecte5-PauUB) |
+| **Projecte 6** | Administració de servidors i virtualització | [Obrir projecte](https://github.com/PauUB/projecte6-PauUB) |
+| **Projecte 7** | Optimització i manteniment de sistemes | [Obrir projecte](https://github.com/PauUB/projecte-7-PauUB) |
+| **Projecte 8** | Projecte final integrador del curs | [Obrir projecte](https://github.com/PauUB/projecte-8-PauUB) |
 
 </div>
 
