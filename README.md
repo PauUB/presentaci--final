@@ -1,82 +1,82 @@
-# Presentació Final de Curs — PauUB
+# 👨‍💻 Presentació Final de Curs — Pau Urrea
 
-Benvinguts al meu portfoli final de curs. Aquí recopilo alguns dels projectes realitzats durant el curs relacionats amb sistemes, xarxes i serveis IT.
+<div align="center">
 
-## 👨‍💻 Perfil GitHub
+## 💻 Sistemes · 🌐 Xarxes · 🖥️ Serveis IT
 
-[github.com/PauUB](https://github.com/PauUB)
+[![GitHub](https://img.shields.io/badge/GitHub-PauUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PauUB)
 
----
-
-# 📂 Projectes
-
-## 1. EverPIA
-
-🔗 [Projecte 2](https://github.com/PauUB/Projece2_EverPIA)
-
-Projecte de planificació i infraestructura IT.
+</div>
 
 ---
 
-## 2. Sobreviure en una empresa IT
+# 📚 Sobre aquest repositori
 
-🔗 [Projecte 3](https://github.com/PauUB/Projecte-03_Sobreviure-en-una-empresa-IT)
+Aquest repositori recopila alguns dels projectes desenvolupats durant el curs de **Sistemes Microinformàtics i Xarxes (SMX)**.
 
-Treball sobre el funcionament d’una empresa tecnològica.
-
----
-
-## 3. Projecte 4
-
-🔗 [Projecte 4](https://github.com/PauUB/Projecte-4)
-
-Configuració de sistemes i serveis de xarxa.
+Durant el curs he treballat coneixements relacionats amb:
+- 💻 Administració de sistemes
+- 🌐 Xarxes i serveis
+- 🖥️ Virtualització
+- ⚙️ Automatització bàsica
+- 🔧 Resolució de problemes tècnics
 
 ---
 
-## 4. Projecte 5
+# 🛠️ Competències adquirides
 
-🔗 [Projecte 5](https://github.com/classesSMX2n/projecte5-PauUB)
+<div align="center">
 
-Automatització i gestió de serveis.
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
----
-
-## 5. Projecte 6
-
-🔗 [Projecte 6](https://github.com/classesSMX2n/projecte6-PauUB)
-
-Administració de servidors i virtualització.
+</div>
 
 ---
 
-## 6. Projecte 7
+# 📂 Projectes realitzats
 
-🔗 [Projecte 7](https://github.com/classesSMX2n/projecte-7-PauUB)
+<div align="center">
 
-Optimització i manteniment de sistemes.
+| 🚀 Projecte | 📖 Descripció | 🔗 Enllaç |
+|---|---|---|
+| **EverPIA** | Projecte de planificació i infraestructura IT | [Obrir projecte](https://github.com/PauUB/Projece2_EverPIA) |
+| **Sobreviure en una empresa IT** | Treball sobre el funcionament d’una empresa tecnològica | [Obrir projecte](https://github.com/PauUB/Projecte-03_Sobreviure-en-una-empresa-IT) |
+| **Projecte 4** | Configuració de sistemes i serveis de xarxa | [Obrir projecte](https://github.com/PauUB/Projecte-4) |
+| **Projecte 5** | Automatització i gestió de serveis | [Obrir projecte](https://github.com/classesSMX2n/projecte5-PauUB) |
+| **Projecte 6** | Administració de servidors i virtualització | [Obrir projecte](https://github.com/classesSMX2n/projecte6-PauUB) |
+| **Projecte 7** | Optimització i manteniment de sistemes | [Obrir projecte](https://github.com/classesSMX2n/projecte-7-PauUB) |
+| **Projecte 8** | Projecte final integrador del curs | [Obrir projecte](https://github.com/classesSMX2n/projecte-8-PauUB) |
+
+</div>
 
 ---
 
-## 7. Projecte 8
+# 📈 Objectius personals
 
-🔗 [Projecte 8](https://github.com/classesSMX2n/projecte-8-PauUB)
-
-Projecte final integrador del curs.
-
----
-
-# 🛠 Competències adquirides
-
-* Linux i Windows
-* Xarxes
-* Virtualització
-* Git i GitHub
-* Administració de sistemes
-* Automatització bàsica
+- 🚀 Continuar millorant dins del sector IT
+- 📚 Aprendre noves tecnologies
+- 💡 Participar en nous projectes
+- 💻 Continuar desenvolupant habilitats tècniques
 
 ---
 
 # 🙌 Valoració final
 
-Aquest curs m’ha ajudat a millorar les meves habilitats tècniques i a entendre millor el treball dins del sector IT.
+Aquest curs m’ha ajudat a entendre millor el funcionament dels sistemes, les xarxes i els serveis IT, així com millorar les meves habilitats tècniques i personals.
+
+---
+
+# 📫 Perfil GitHub
+
+🌐 https://github.com/PauUB
+
+---
+
+<div align="center">
+
+### ✨ Gràcies per visitar aquest repositori ✨
+
+</div>
