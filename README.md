@@ -64,9 +64,6 @@ Durant el curs he treballat coneixements relacionats amb:
 
 ## 📂 Projectes realitzats
 
-<div align="center">
-
-<br>
 
 | 🚀 Projecte | 📖 Descripció | 🔗 Enllaç |
 |:---|:---|:---:|
@@ -80,9 +77,7 @@ Durant el curs he treballat coneixements relacionats amb:
 
 ## Explicació projectes
 
-# Projecte 1
-
-# 📌 Projecte Inicial – Introducció al Treball Professional
+# Projecte 1: Arranquem
 
 ## 🎯 Objectiu
 
@@ -147,13 +142,11 @@ Adquirir una base sòlida en:
 
 Aquest projecte és el **primer pas per preparar-te pel món laboral real**.
 
-# Projecte 2
-
-Aquí tens la **DESCRIPCIÓ DEL PROJECTE adaptada per README**, clara i professional:
-
 ***
 
-# 📖 Descripció del Projecte
+# Projecte 2: Consultoria EverPia 
+
+## EverPia: *Sobreviure en una empresa IT*
 
 ## 🎯 Objectius
 
@@ -215,9 +208,9 @@ Aquest projecte representa la nostra **entrada al món professional**, on haurem
 
 Formar part d’EverPia implica entendre que **cada projecte és una oportunitat per créixer i millorar com a professionals**.
 
-# Projecte 3 
+***
 
-# 📖 Descripció del Projecte
+# Projecte 3: Consultoria EverPia 2
 
 ## EverPia 2: *Sobreviure en una empresa IT*
 
@@ -225,7 +218,6 @@ Després de l’èxit del primer projecte, EverPia ha crescut… i amb el creixe
 
 En aquest nou escenari, ja no es tracta de construir des de zero, sinó de **mantenir sistemes reals sota pressió**.
 
-> “Quan tot funciona, és que no ho has mirat prou bé.”
 
 ***
 
@@ -316,22 +308,599 @@ Aquest projecte és una immersió total en el món IT real:
 
 ***
 
-## ✨ Epíleg
+# Projecte 4: Consultoria EverPia 3
 
-EverPia 2 no és només un projecte. És una prova.
+## EverPia 3: Sobreviure en una empresa IT
 
-Aquí no només aprens a configurar sistemes, sinó a:
+EverPia 3 és l’última etapa del recorregut dins la consultora. Després d’haver après a construir (EverPia 1) i a sobreviure (EverPia 2), arriba el moment de **demostrar qui ets com a professional**.
 
-* Pensar
-* Decidir
-* Coordinar
-* Resistir
+Aquest projecte simbolitza el pas de **júnior a professional preparat**, capaç de treballar amb autonomia, criteri i visió global.
 
-🔥 El foc ja està encès.  
-⌨️ Ara et toca a tu agafar l’extintor… i el teclat.
+***
+
+## 🎯 Objectius
+
+L’objectiu principal és **integrar tots els coneixements adquirits** en un entorn realista i exigent.
+
+Es busca:
+
+* Aplicar coneixements de **sistemes, xarxes, seguretat i web**
+* Treballar amb **autonomia i responsabilitat**
+* Consolidar la **documentació tècnica professional**
+* Millorar la **capacitat d’anàlisi i resolució de problemes**
+* Preparar-se per al **salt al món laboral real**
+
+***
+
+## 🧠 Enfocament
+
+Aquest projecte no és un conjunt de tasques aïllades, sinó una **simulació real d’un entorn professional**.
+
+Durant 4 setmanes hauràs de:
+
+* Gestionar incidències i millores del sistema
+* Automatitzar i optimitzar processos
+* Dissenyar i desplegar solucions
+* Documentar tot el treball amb qualitat
+* Organitzar-te amb metodologia **Kanban**
+
+***
+
+## 🔥 El repte
+
+EverPia està en creixement i necessita evolucionar la seva infraestructura.
+
+Formaràs part d’un equip júnior amb la missió de:
+
+* Escalar serveis
+* Millorar la resiliència dels sistemes
+* Implementar noves solucions IT
+
+### 🧩 Bloc tècnic
+
+* Backup i restauració amb **Rescuezilla**
+* Estratègies de backup per Windows
+* Servidors:
+  * **NFS (amb i sense LDAP)**
+  * **CUPS (impressió)**
+* Solucions d’**accés remot**
+
+### 🎨 Bloc creatiu i organitzatiu
+
+* Prototip **web corporativa + ecommerce (Figma)**
+* Introducció a **Git** i control de versions
+* Documentació tècnica estructurada
+* Gestió del projecte amb **Kanban**
+* Integració de criteris de **sostenibilitat**
+
+***
+
+## 📦 Producte final
+
+El resultat serà una **carpeta professional completa**, amb:
+
+* ✅ Imatge de sistema restaurada i validada
+* ✅ Informe de solucions de backup
+* ✅ Servidor NFS funcional i documentat
+* ✅ Servidor CUPS operatiu
+* ✅ Informe d’accés remot
+* ✅ Prototip Figma (corporatiu + ecommerce)
+* ✅ Repositori Git estructurat amb commits
+* ✅ Tauler Kanban actualitzat
+* ✅ Reflexió sobre sostenibilitat
+
+***
+
+## 🚀 Resultat esperat
+
+Al final del projecte hauràs demostrat que ets capaç de:
+
+* Integrar coneixements tècnics en entorns reals
+* Treballar amb autonomia i criteri
+* Documentar com un professional
+* Gestionar projectes i tasques de forma eficient
+* Afrontar reptes complexos amb seguretat
+
+***
+
+## 💬 Filosofia EverPia
+
+> “No és només saber fer, sinó saber entendre, documentar i decidir.”
+
+Aquest projecte és el tancament d’una etapa i l’inici d’una altra:
+
+* Ja no ets el júnior que comença
+* Ets un professional en construcció
+
+***
+
+# Projecte 5: La incubadora
+
+## 🚀 Incubadora d’Empreses IT
+
+Som a mitjans de segon curs. Això marca un canvi important: ja no es tracta només d’aprendre conceptes, sinó de **saber aplicar-los de manera integrada i professional**.
+
+Fins ara heu treballat diferents àrees (sistemes, xarxes, seguretat, web…), però el món real no funciona per assignatures. Els problemes són globals i exigeixen:
+
+* Entendre el context
+* Proposar solucions viables
+* Justificar decisions
+* Executar i comunicar amb criteri
+
+Aquest projecte és el pas cap a aquesta realitat.
+
+***
+
+## 🎯 Objectius
+
+L’objectiu principal és **deixar de treballar com a estudiants i començar a treballar com a professionals**.
+
+Es busca:
+
+* Integrar coneixements tècnics en una proposta real
+* Desenvolupar pensament crític i capacitat de decisió
+* Aprendre a justificar solucions amb criteri tècnic i econòmic
+* Practicar la comunicació professional (pitch)
+* Construir un perfil professional propi
+
+***
+
+## 🧩 El repte
+
+Durant 4 setmanes, la classe es converteix en una **incubadora d’empreses IT**.
+
+Haureu de crear una startup des de zero que sigui:
+
+* Basada en un **problema real**
+* Dirigida a un **client real**
+* Amb una **solució clara i viable**
+* Amb un model de negoci coherent
+* Defensable com un projecte real
+
+No es tracta de tenir una idea “original”, sinó de construir una proposta **realista i executables**.
+
+***
+
+## 💡 Doble enfocament
+
+Aquest projecte té dues dimensions:
+
+### 🏢 Construcció d’empresa
+
+* Idea, proposta de valor i model de negoci
+* Estratègia i posicionament
+* Viabilitat econòmica
+
+### 👤 Construcció del perfil professional
+
+* Definir el teu rol dins l’equip
+* Identificar competències i fortaleses
+* Orientar el teu futur professional
+
+> No només es valora la idea, sinó **qui és capaç de dur-la a terme**.
+
+***
+
+## 📅 Fases del projecte
+
+* **Setmana 1** → Problema i client real
+* **Setmana 2** → Estratègia i model d’empresa
+* **Setmana 3** → Prototip i viabilitat
+* **Setmana 4** → Validació i preparació del pitch
+
+***
+
+## 🎤 Producte final: Demo Day
+
+El projecte culmina amb un **Demo Day (format Shark Tank)**.
+
+Haureu de fer un pitch davant d’un comitè que valorarà:
+
+* Existència i mida del mercat
+* Importància del problema
+* Qualitat i diferenciació de la solució
+* Viabilitat econòmica (costos, preus, riscos)
+* Capacitat de l’equip
+
+No és una exposició convencional:
+
+* Haureu de **convèncer**
+* Respondre preguntes exigents
+* Defensar decisions amb criteri
+
+***
+
+## 📦 Resultat esperat
+
+Al final del projecte haureu generat:
+
+* Una **startup IT definida i estructurada**
+* Un **prototip funcional o conceptual**
+* Un **model de negoci viable**
+* Un **pitch professional**
+* Evidències del vostre **valor professional**
+
+***
+
+## 🚀 Filosofia del projecte
+
+> El món real no et demana assignatures. Et demana solucions.
+
+Aquest projecte marca el moment en què:
+
+* Deixes d’aprendre només teoria
+* Comences a integrar coneixement
+* Comences a semblar un professional
+
+***
+
+# Projecte 6: NEXUS
+
+## Projecte Nexus: *Desplegament d’un entorn E-learning sostenible*
+
+Projecte Nexus planteja el desplegament d’una **plataforma E-learning pròpia** orientada a la formació de tècnics informàtics. Aquesta s’ha de construir sobre una infraestructura **eficient, sostenible i amb costos controlats**, tal com es faria en una petita o mitjana empresa real.
+
+Assumirem el rol d’un equip tècnic encarregat de **dissenyar, desplegar i justificar una solució completa de servidor**.
+
+***
+
+## 🎯 Objectius
+
+L’objectiu principal és aprendre a treballar com a professionals en un entorn realista:
+
+* Dissenyar i desplegar un **servidor funcional per E-learning**
+* Comparar tecnologies i prendre decisions amb criteri
+* Analitzar **costos i viabilitat**
+* Aplicar criteris de **sostenibilitat tecnològica**
+* Comunicar solucions tècniques de forma clara i professional
+
+***
+
+## 🧩 El repte
+
+No es tracta només d’instal·lar un servidor, sinó de:
+
+* Entendre les **necessitats del client**
+* Escollir la tecnologia més adequada
+* Comparar alternatives reals
+* Justificar decisions tècniques
+* Presentar una proposta clara i viable
+
+> És una simulació d’un encàrrec professional real dins del món IT.
+
+***
+
+## ⚙️ Abast del projecte
+
+### 1️⃣ Desplegament del servidor
+
+Configuració d’un entorn capaç d’allotjar una plataforma E-learning:
+
+* Sistema operatiu configurat
+* Servidor web operatiu
+* Organització de serveis
+* Configuració bàsica per a ús educatiu
+* Bones pràctiques de seguretat i manteniment
+
+***
+
+### 2️⃣ Comparativa de tecnologies (Nginx vs Apache)
+
+Anàlisi de dues opcions de servidor web:
+
+* **Nginx** → eficient i lleuger
+* **Apache** → flexible i molt utilitzat
+
+Criteris de comparació:
+
+* Instal·lació i configuració
+* Consum de recursos
+* Rendiment
+* Manteniment
+* Adequació al projecte
+* Impacte en sostenibilitat
+
+***
+
+### 3️⃣ Viabilitat i costos
+
+Avaluació econòmica del projecte:
+
+* Alternatives de desplegament (especialment VPS)
+* Costos aproximats:
+  * Posada en marxa
+  * Manteniment
+  * Recursos
+* Explicació orientada a client no tècnic
+
+***
+
+### 4️⃣ Proposta de solució final
+
+Definició de la solució recomanada:
+
+* Tecnologia escollida (Nginx o Apache)
+* Justificació tècnica
+* Avantatges principals
+* Adequació al context del client
+* Consideracions de sostenibilitat
+
+***
+
+### 5️⃣ Estimació de la feina
+
+Planificació del projecte:
+
+* Tasques necessàries
+* Temps estimat per fases
+* Perfils tècnics implicats
+* Riscos i dificultats
+
+***
+
+## 📦 Producte final
+
+El lliurament inclourà:
+
+* ✅ Servidor E-learning funcional
+* ✅ Comparativa tècnica (Nginx vs Apache)
+* ✅ Anàlisi de viabilitat i costos
+* ✅ Proposta de solució documentada
+* ✅ Planificació del projecte (temps i tasques)
+
+***
+
+## 🚀 Resultat esperat
+
+Al final del projecte hauràs demostrat que ets capaç de:
+
+* Desplegar i gestionar un servidor real
+* Analitzar i comparar tecnologies
+* Justificar decisions amb criteri tècnic i econòmic
+* Tenir en compte la sostenibilitat
+* Comunicar solucions com un professional
+
+***
+
+## 💬 Filosofia del projecte
+
+> Deixar de “configurar per practicar” per començar a **configurar per donar servei**.
+
+Aquest projecte representa el pas cap al món laboral real:
+
+* Problemes amb context
+* Decisions amb conseqüències
+* Solucions que s’han d’entendre i defensar
 
 
-<br>
+***
+
+# Projecte 7: Food Logistic S.A
+
+## 🏢 Projecte: Solució IT per a FoodLogístic S.A.
+
+## 🎯 Context
+
+Després de consolidar la vostra empresa, arriba el moment de treballar com una **consultora real**: captar clients, entendre les seves necessitats i oferir solucions completes.
+
+En aquest projecte treballareu en dos fronts:
+
+* Donar resposta a un **client real en creixement (FoodLogístic S.A.)**
+* Consolidar la **presència digital de la vostra pròpia empresa**
+
+***
+
+## 🎯 Objectius
+
+Aquest projecte té com a objectiu desenvolupar competències professionals clau:
+
+* Dissenyar solucions IT **reals i viables**
+
+* Integrar coneixements de:
+  * Sistemes
+  * Xarxes
+  * Seguretat
+  * Web
+
+* Justificar decisions amb criteri tècnic i econòmic
+
+* Elaborar documentació professional
+
+* Preparar i defensar una proposta davant d’un client
+
+***
+
+## 🧩 El repte
+
+FoodLogístic S.A., empresa de logística alimentària en expansió, necessita modernitzar la seva infraestructura IT per garantir:
+
+* Alta disponibilitat
+* Comunicació eficient
+* Seguretat de dades
+* Presència digital actualitzada
+
+La vostra missió és actuar com a **consultors IT** i oferir una solució completa, realista i ben documentada.
+
+***
+
+## ⚙️ Àrees de treball
+
+### 🛠️ Àrea 1: Infraestructura i Alta Disponibilitat
+
+Garantir la continuïtat dels serveis:
+
+* Servidor de fitxers en **alta disponibilitat**
+* Servidor d’impressió en **alta disponibilitat**
+* Integració amb Directori Actiu
+
+***
+
+### ☁️ Àrea 2: Comunicació al Núvol
+
+Migració del sistema de correu:
+
+* Comparativa:
+  * Microsoft 365
+  * Google Workspace
+
+* Criteris:
+  * Funcionalitats
+  * Col·laboració (calendaris, drive, videotrucades)
+  * Productivitat
+
+***
+
+### ⚖️ Àrea 3: Seguretat i LOPD
+
+Compliment normatiu:
+
+* Creació d’un **vídeo formatiu** per a treballadors
+* Explicació de:
+  * Bones pràctiques
+  * Tractament de dades
+  * Obligacions legals
+
+***
+
+### 🌐 Àrea 4: Presència a Internet
+
+Millora de la imatge digital:
+
+* Redisseny d’una **landing page corporativa**
+* Formulari de contacte funcional
+* Compliment de normativa (protecció de dades, cookies, etc.)
+
+***
+
+## 📋 Treball a realitzar
+
+### 📄 Memòria tècnica
+
+S’haurà de lliurar una proposta completa que inclogui:
+
+* Solucions tècniques
+* Justificacions
+* Alternatives analitzades
+
+***
+
+### 💰 Pressupost
+
+Incloure:
+
+* Cost d’implantació:
+  * Llicències
+  * Infraestructura
+  * Hores de treball
+
+* Costos recurrents:
+  * Subscripcions (SaaS)
+  * Manteniment
+  * Suport tècnic
+
+***
+
+### ⏱️ Planificació
+
+* Calendari d’implantació
+* Estimació d’hores
+* Fases del projecte
+
+(Eines recomanades: Kanban, Planner, diagrama de Gantt)
+
+***
+
+### 📁 Repositori
+
+Organització obligatòria:
+
+* Carpeta per cada tasca/producte
+* Fitxer `README.md` explicatiu
+* Documents amb la solució
+* Carpeta d’imatges ben estructurada
+
+***
+
+## 📦 Producte final
+
+* ✅ Memòria tècnica completa
+* ✅ Proposta de solució per cada àrea
+* ✅ Comparativa de serveis al núvol
+* ✅ Vídeo formatiu LOPD
+* ✅ Landing page funcional
+* ✅ Pressupost detallat (inicial + recurrent)
+* ✅ Planificació del projecte
+* ✅ Repositori documentat
+
+***
+
+## 🚀 Resultat esperat
+
+Al final del projecte hauràs demostrat que pots:
+
+* Treballar com a consultor IT
+* Dissenyar solucions integrals
+* Justificar decisions tècniques i econòmiques
+* Organitzar i documentar projectes complexos
+* Comunicar i defensar propostes davant d’un client
+
+***
+
+## 💬 Filosofia del projecte
+
+> No n’hi ha prou amb saber fer… cal saber explicar, justificar i mantenir.
+
+Aquest projecte representa el pas definitiu cap al món professional:
+
+* Problemes reals
+* Decisions amb impacte
+* Clients amb necessitats concretes
+
+***
+
+# Projecte 8: 
+
+## 🧩 El repte
+
+Moltes petites empreses dominen el seu negoci, però tenen dificultats per adaptar-se a les noves tecnologies. El repte d’aquest projecte és actuar com a **consultors IT** i ajudar-les a fer aquest pas de manera efectiva.
+
+Haureu de:
+
+* Analitzar les **necessitats reals d’un client**
+* Dissenyar **solucions tecnològiques a mida** (infraestructura, seguretat, dades…)
+* Assessorar perquè la transformació digital sigui **eficient i viable**
+
+Però el repte va més enllà de la tècnica. També haureu de tenir en compte l’impacte social i ambiental de les vostres decisions.
+
+Per això, el projecte inclou:
+
+* L’elaboració d’un **pla de sostenibilitat**
+* L’aplicació dels **Objectius de Desenvolupament Sostenible (ODS)**
+* Propostes per reduir la petjada ambiental i fomentar un ús responsable de la tecnologia
+
+***
+
+## 🎯 Enfocament
+
+Aquest projecte simula una situació real on:
+
+* No es tracta només d’instal·lar tecnologia
+* Es tracta de **proposar solucions que aportin valor real**
+* Les decisions han de ser **tècniques, viables i sostenibles**
+
+***
+
+## 🚀 Resultat esperat
+
+Al final, haureu demostrat que sou capaços de:
+
+* Entendre un problema real
+* Proposar una solució completa
+* Pensar com a professionals IT
+* Tenir en compte l’impacte de la tecnologia en el món
+
+***
+
 
 </div>
 
